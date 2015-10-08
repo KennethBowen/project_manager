@@ -1,0 +1,5 @@
+pt:
+	projects:
+  	name: Nome
+  	description:Descricao
+  	ends_at: termino em
